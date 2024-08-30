@@ -2,8 +2,8 @@
 title: "Utilizing Chinese admission records for MACE prediction of acute coronary syndrome"
 collection: publications
 category: journal
-permalink: /publication/Journal-paper-1-2016-09-13
-excerpt: #''
+permalink: # /publication/Journal-paper-1-2016-09-13
+excerpt: # ''
 date: 2016-09-13
 venue: 'International Journal of Environmental Research and Public Health'
 paperurl: 'https://www.mdpi.com/1660-4601/13/9/912'
