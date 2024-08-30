@@ -2,7 +2,7 @@
 title: "Predicting postoperative non-small cell lung cancer prognosis via long short-term relational regularization"
 collection: publications
 category: manuscripts
-permalink:# /publication/2015-10-01-paper-title-number-3
+permalink: # /publication/2015-10-01-paper-title-number-3
 excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-07-16
 venue: 'Artificial Intelligence in Medicine'
