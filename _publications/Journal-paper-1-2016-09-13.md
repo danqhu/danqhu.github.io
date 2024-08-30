@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Chinese admission records for MACE prediction of acute coronary syndrome"
 collection: publications
-category: journal
+category: manuscripts
 permalink: # /publication/Journal-paper-1-2016-09-13
 excerpt: # ''
 date: 2016-09-13
