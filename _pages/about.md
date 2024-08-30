@@ -18,21 +18,17 @@ My research interests include Artificial Intelligence in Medicine, Medical Infor
 
 Working experience
 ======
-2022.07 - now     Zhejiang Lab     Assistant researcher
+2022.07 - now      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Zhejiang Lab         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Assistant researcher    
 
 
 
 Education
 ======
-2018.09 - 2022.06     Zhejiang university     Ph.D.
-2014.09 - 2017.03     Zhejiang university     Master
-2010.09 - 2014.06     Shandong university     Bachelor
+2018.09 - 2022.06  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Zhejiang university  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Ph.D.    
 
+2014.09 - 2017.03  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Zhejiang university  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Master   
 
-
-Projects
-======
-
+2010.09 - 2014.06  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Shandong university  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Bachelor   
 
 
 
