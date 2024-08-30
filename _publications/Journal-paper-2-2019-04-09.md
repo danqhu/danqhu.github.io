@@ -1,7 +1,7 @@
 ---
 title: "Evidential MACE prediction of acute coronary syndrome using electronic health records"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: # /publication/Journal-paper-2-2019-04-09
 excerpt: #'This paper is about fixing template issue #693.'
 date: 2019-04-09
